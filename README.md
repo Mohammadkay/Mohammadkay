@@ -1,4 +1,4 @@
-# Mohammadkayyali
+# Mohammad Alkayyali
 
 <h1 align="center">Hi 👋, I'm Mohammad Kayyali</h1>
 <h3 align="center">A passionate Web and Mobile developer from Jordan</h3>
