@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, React Native**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohdalkayyali/](https://www.linkedin.com/in/mohdalkayyali/)
+- 📝 Contact me in s on [https://www.linkedin.com/in/mohdalkayyali/](https://www.linkedin.com/in/mohdalkayyali/)
 
 - 📫 How to reach me **mohamd.al.alkayyali@gmail.com**
 
